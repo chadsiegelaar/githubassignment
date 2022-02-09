@@ -1,7 +1,7 @@
 package za.ac.cput.githubAssignment;
 
 /**
- * @author Chad Siegelaar - 218340982
+ * @author: Chad Siegelaar - 218340982
  *
  */
 public class Customer  {
